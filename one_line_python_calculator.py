@@ -1,0 +1,1 @@
+x=float(input("1st: ")); y=float(input("2nd: ")); r=x/y, x*y, x+y, x-y; print(r)
