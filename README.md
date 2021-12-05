@@ -9,8 +9,8 @@
 </details>
 <details>
   <summary>External Modules</summary>
-  <option>pyttsx3</option>
-  <option>morse_talk</option>
+  <option>pyttsx3</option><br />
+  <option>morse_talk</option><br />
   <option>translate</option>
 </details>
 
