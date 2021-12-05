@@ -2,13 +2,19 @@
 <p align="center">Some Python Shell Calculators That I Made.</p>
 <br>
 <h4>advanced_calculator.py Required Modules:</h4>
-• Built-in Modules<br>
-math<br>
+
 <details>
-  <summary>Not Built-in Modules</summary>
-  <option>pyttsx3
-morse_talk
-translate</option>
+  <summary>Built-in Modules</summary>
+  <option>math</option>
+</details>
+
+<br>
+
+<details>
+  <summary>External Modules</summary>
+  <option>pyttsx3</option>
+  <option>morse_talk</option>
+  <option>translate</option>
 </details>
 
 
