@@ -7,9 +7,6 @@
   <summary>Built-in Modules</summary>
   <option>math</option>
 </details>
-
-<br>
-
 <details>
   <summary>External Modules</summary>
   <option>pyttsx3</option>
