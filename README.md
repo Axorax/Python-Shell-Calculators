@@ -4,8 +4,12 @@
 <h4>advanced_calculator.py Required Modules:</h4>
 • Built-in Modules<br>
 math<br>
-• Not Built-in Modules<br>
-pyttsx3<br>
-morse_talk<br>
-translate<br><br>
+<details>• Not Built-in Modules
+  <option>pyttsx3
+morse_talk
+translate</option>
+</details>
+
+
+<br><br>
 <a href="https://www.patreon.com/axorax">Patreon 💖</a>
