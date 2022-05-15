@@ -25,8 +25,7 @@ helpmenuerrors = """              Errors
         
         If you find any bugs or errors in the code you
         can contact the owner:
-        Discord: Aceward#0037
-        Instagram: aceward1
+        Discord: Axorax#3184
         """
 helpmenutext = """          Help Menu
     1 = All special commands list.
